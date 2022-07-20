@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio built with Bootstrap
 
-> Description the project.
+> This is a project to implement the CSS framework; mainly the Bootstrap.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major languages: HTML | CSS
+- Frameworks: Bootstrap
 - Technologies used
 
 ## Live Demo (if available)
